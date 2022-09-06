@@ -1,0 +1,147 @@
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.exe
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.deps.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.runtimeconfig.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.pdb
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.AssemblyReference.cache
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfoInputs.cache
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfo.cs
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CoreCompileInputs.cache
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\scopedcss\bundle\LoginApii.styles.css
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CopyComplete
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\refint\LoginApii.dll
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.pdb
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.genruntimeconfig.cache
+C:\Users\Adeen\source\repos\LoginApii\LoginApii\obj\Debug\net6.0\ref\LoginApii.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.exe
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.deps.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.runtimeconfig.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.pdb
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.AssemblyReference.cache
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfoInputs.cache
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfo.cs
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CoreCompileInputs.cache
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\scopedcss\bundle\LoginApii.styles.css
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CopyComplete
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\refint\LoginApii.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.pdb
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.genruntimeconfig.cache
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\obj\Debug\net6.0\ref\LoginApii.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Data.OleDb.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\DIWANs\Downloads\Angular-App Demo\Angular-App\LoginApii\LoginApii\bin\Debug\net6.0\Office.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.Development.json
+D:\LoginApii\LoginApii\bin\Debug\net6.0\appsettings.json
+D:\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.exe
+D:\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.deps.json
+D:\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.runtimeconfig.json
+D:\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\LoginApii.pdb
+D:\LoginApii\LoginApii\bin\Debug\net6.0\ExcelDataReader.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Office.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.Office.Interop.Excel.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Data.OleDb.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\LoginApii\LoginApii\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.AssemblyReference.cache
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.GeneratedMSBuildEditorConfig.editorconfig
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfoInputs.cache
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.AssemblyInfo.cs
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CoreCompileInputs.cache
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cs
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.MvcApplicationPartsAssemblyInfo.cache
+D:\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.build.json
+D:\LoginApii\LoginApii\obj\Debug\net6.0\staticwebassets.development.json
+D:\LoginApii\LoginApii\obj\Debug\net6.0\scopedcss\bundle\LoginApii.styles.css
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.csproj.CopyComplete
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.dll
+D:\LoginApii\LoginApii\obj\Debug\net6.0\refint\LoginApii.dll
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.pdb
+D:\LoginApii\LoginApii\obj\Debug\net6.0\LoginApii.genruntimeconfig.cache
+D:\LoginApii\LoginApii\obj\Debug\net6.0\ref\LoginApii.dll

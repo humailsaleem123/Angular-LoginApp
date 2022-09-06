@@ -1,0 +1,43 @@
+USE [Users]
+GO
+/****** Object:  StoredProcedure [dbo].[users]    Script Date: 04-Sep-22 11:38:43 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+-- =============================================
+-- Author:		<Author,,Name>
+-- Create date: <Create Date,,>
+-- Description:	<Description,,>
+-- =============================================
+ALTER PROCEDURE [dbo].[users] (
+@username VARCHAR(200) = ' ' , 
+@password VARCHAR(200) = ' ', 
+@Query INT = 0)
+	-- Add the parameters for the stored procedure here
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	IF(@Query=1)
+	BEGIN
+
+	SELECT username,password FROM usersList where username=@username and password=@password
+	END
+	ELSE IF(@Query=2)
+
+	BEGIN
+
+	SELECT * FROM usersList
+	END
+
+	ELSE IF(@Query=3)
+
+	BEGIN
+
+	INSERT INTO usersList VALUES(@username , @password)
+	END
+END

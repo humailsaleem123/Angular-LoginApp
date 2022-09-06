@@ -1,0 +1,57 @@
+<!-- <toolbar-basic-example></toolbar-basic-example> -->
+
+
+<h3 class="igx-typography__body-1">
+
+    Dashboard Page
+
+  </h3>
+<!--   
+  <input type="file"/> -->
+
+
+
+  <article>
+    <form (ngSubmit)="getData()"> 
+        <h6>File Type</h6>
+        <igx-input-group>
+            <label igxLabel>Important Documents</label>
+            <input
+                igxInput
+                type="file"
+      
+            /> 
+            <igx-hint>Upload a file to begin...</igx-hint>
+        </igx-input-group>
+    </form>
+</article>
+
+<br/>
+
+<table  id="customers">
+  <tr>
+      <th>ID</th>
+      <th>Name</th>
+      <th>Address</th>
+  </tr>
+  
+  
+  <tbody *ngFor="let user of userData">
+      <td>{{user.id}}</td>
+      <td>{{user.Name}}</td>
+      <td>{{user.Address}}</td>
+  
+  </tbody>
+  
+  </table>
+  
+
+
+  <!-- <input
+  #fileInput
+  type="file"
+  hidden
+  (change)="handleChange($event.target.files)"
+/>
+<button mat-button (click)="fileInput.click()">Load Button</button>
+Filename: {{ file }} -->

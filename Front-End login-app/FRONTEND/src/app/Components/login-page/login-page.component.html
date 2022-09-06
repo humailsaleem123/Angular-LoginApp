@@ -1,0 +1,89 @@
+<!-- <p>login-page works!</p> -->
+<!-- 
+<mat-toolbar style="background-color: black; color:#FFF ;">
+    <button mat-icon-button class="example-icon" aria-label="Example icon-button with menu icon">
+      <mat-icon>menu</mat-icon>
+    </button>
+    <span>My App</span>
+    <span class="example-spacer"></span>
+
+
+    
+    <div>
+      <a mat-button *ngIf="!loggedIn()" > Register </a> 
+      <a mat-button [routerLink]="'/login'" (click)="loggedOut()"> logout {{loggedInUser}} </a>
+
+    </div>
+
+
+   
+  </mat-toolbar>  -->
+
+  <div class="sample-column">
+    <igx-navbar title="Demo">
+        <igx-navbar-action>
+
+          <span igxButton="icon" igxToggleAction="navigation">
+            <igx-icon family="material">menu</igx-icon>
+          </span>
+
+        </igx-navbar-action>
+        <!-- <button igxButton="icon">
+            <igx-icon>search</igx-icon>
+        </button>
+        <button igxButton="icon">
+            <igx-icon>favorite</igx-icon>
+        </button>
+        <button igxButton="icon">
+            <igx-icon>more_vert</igx-icon>
+        </button> -->
+        <div>
+          <a  igxButton="flat" *ngIf="!loggedIn()" > Register </a> 
+          <a  igxButton="flat" [routerLink]="'/login'"> logout {{loggedInUser}} </a>
+    
+        </div>
+    </igx-navbar>
+</div>
+<div class="content-wrap">
+  <igx-nav-drawer id="navigation" #drawer [isOpen]="false" [pinThreshold]="5000">
+    <ng-template igxDrawer>
+      <nav>
+        <span igxDrawerItem [isHeader]="true">Components</span>
+
+        <span *ngFor="let item of navItems" igxDrawerItem [active]="item.text === selected" igxRipple (click)="navigate(item)">
+          <igx-icon family="material">{{ item.name }}</igx-icon>
+          <span>{{ item.text }}</span>
+        </span>
+      </nav>
+    </ng-template>
+  </igx-nav-drawer>
+
+  <main style="width:100% ;">
+    <!-- <button (click)="drawer.toggle()"> Menu </button> -->
+    <!-- <span igxButton="icon" igxToggleAction="navigation">
+      <igx-icon family="material">menu</igx-icon>
+    </span> -->
+
+   
+    <app-dashboard></app-dashboard>
+
+
+
+    <!-- <h5>{{selected}} content.</h5> -->
+
+
+
+
+
+
+
+  </main>
+</div>
+
+
+
+ <!-- "styles": [
+ "src/theme.scss",
+  "src/styles.css",
+   "src/style.css"
+], -->

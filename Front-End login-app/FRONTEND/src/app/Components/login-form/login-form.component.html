@@ -1,0 +1,88 @@
+<!-- 
+<p>
+  <mat-toolbar style="background-color:#A8A8A8">
+    <span>Login Page</span>
+  </mat-toolbar>
+</p> -->
+
+<!-- <router-outlet> -->
+<!-- <div class="flexbox-parent" >
+<mat-card class="my-card" >
+
+    <mat-card-content [style.marginTop.px]=40>
+        <p class="mat-headline">LOGIN FORM</p>
+       <form class="my-form" [formGroup]="loginForm" (ngSubmit)="login()">
+
+          <mat-form-field hintLabel="Max 20 characters" appearance="outline"  [style.width.px]=230>
+            <mat-label>Enter UserName</mat-label>
+            <input formControlName="username" matInput #input maxlength="20" placeholder="Enter Your UserName" required>
+            <mat-hint align="end">{{input.value.length || 0}}/20</mat-hint>
+          </mat-form-field>
+
+
+          <mat-form-field appearance="outline" class="fullWidth" [style.width.px]=230>
+            <mat-label>Enter your password</mat-label>
+            <input formControlName="password" matInput [type]="hide ? 'password' : 'text'" required>
+            <button mat-icon-button matSuffix (click)="hide = !hide" [attr.aria-label]="'Hide password'" [attr.aria-pressed]="hide">
+              <mat-icon>{{hide ? 'visibility_off' : 'visibility'}}</mat-icon>
+            </button>
+            <mat-hint>Password Must be alphabets & numbers</mat-hint>
+          </mat-form-field>
+
+          <mat-card-actions>
+            <button mat-raised-button  color="primary" type="submit" value="Submit" >LOGIN</button>
+         </mat-card-actions>
+
+       </form>
+
+    </mat-card-content>
+
+ </mat-card>
+</div> -->
+<section class="ftco-section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-md-6 text-center mb-5">
+        <h2 class="heading-section">LOGIN</h2>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-6 col-lg-4">
+        <div class="login-wrap p-0">
+          <h3 class="mb-4 text-center">Have an account?</h3>
+          <form action="#" class="signin-form" [formGroup]="loginForm" (ngSubmit)="login()">
+            <div class="form-group">
+              <input formControlName="username" type="text" class="form-control" placeholder="Username" required>
+            </div>
+            <div class="form-group">
+              <input formControlName="password" id="password-field" type="password" class="form-control" placeholder="Password" required>
+              
+            </div>
+            <div class="form-group">
+              <button type="submit" class="form-control btn btn-primary submit px-3">Sign In</button>
+            </div>
+            <div class="form-group d-md-flex">
+              <div class="w-50">
+                <label class="checkbox-wrap checkbox-primary">Remember Me
+                  <input type="checkbox" checked>
+                  <span class="checkmark"></span>
+                </label>
+              </div>
+              <div class="w-50 text-md-right">
+                <a href="#" style="color: #fff">Forgot Password</a>
+              </div>
+            </div>
+          </form>
+          <p class="w-100 text-center">&mdash; Or Sign In With &mdash;</p>
+          <div class="social d-flex text-center">
+            <a href="#" class="px-2 py-2 mr-md-1 rounded"><span class="ion-logo-facebook mr-2"></span> Facebook</a>
+            <a href="#" class="px-2 py-2 ml-md-1 rounded"><span class="ion-logo-twitter mr-2"></span> Twitter</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <toolbar-basic-example></toolbar-basic-example> -->
+<!-- </router-outlet>  -->
